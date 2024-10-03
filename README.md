@@ -1,6 +1,8 @@
 # PotencialAgro
 El proyecto Potencial Agro busca desarrollar una aplicación móvil que permita monitorear y optimizar los cultivos agrícolas a través del uso de sensores y la integración de inteligencia artificial (IA) para mejorar la toma de decisiones
 
+![logov7](https://github.com/user-attachments/assets/a72e0358-2381-42ed-97df-5463f01cf898)
+
 
 Propósito del Proyecto:
 
